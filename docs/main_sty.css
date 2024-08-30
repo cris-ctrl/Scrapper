@@ -33,3 +33,23 @@ h3{
 #footer a{
     margin-left: 20px;
 }
+form{
+    margin-top: 150px;
+    font-size: 30px;
+}
+form input{
+    height: 30px;
+}
+form button{
+    margin-top: 30px;
+    font-size: 20px;
+    height: 75px;
+    width: 100px;
+    border-radius: 20px;
+}
+#back{
+    text-align: left;
+    font-size: 10;
+    text-decoration: none;
+    color: #FFFFE0;
+}
